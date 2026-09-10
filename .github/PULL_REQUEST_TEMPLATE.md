@@ -1,1 +1,1 @@
-alteraçoes realizadas 
+alteraçoes realizadas basicamente para recuperar aa estrutura que havia perdido por conta de um pull Request indevido.
